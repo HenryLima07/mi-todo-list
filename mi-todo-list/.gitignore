@@ -51,3 +51,4 @@ coverage/
 
 # Archivos de prueba
 /test-results/
+config.ini
