@@ -7,5 +7,5 @@ export async function getTasks(page = 1, limit = 10) {
 }   
 
 function calcularTotal(subtotal) {
-    return subtotal
+    return subtotal -55555
 }
